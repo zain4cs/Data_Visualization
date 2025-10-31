@@ -61,3 +61,34 @@ Interactive plots made it easier to identify how **cut** and **clarity** influen
 
 ## 📁 **Project Structure**
 
+
+---
+
+## 📌 **Key Learnings**
+- Learned to visualize relationships and distributions effectively  
+- Understood how to move from static (Matplotlib/Seaborn) to dynamic (Plotly) visualizations  
+- Improved understanding of customization, styling, and subplot management  
+- Learned to use aggregation (`agg(['mean', 'std'])`) for grouped bar plots with error bars  
+
+---
+
+## 🧩 **Next Step**
+The next step will involve connecting visualization results with **machine learning predictions**, like price forecasting and regression visualization.
+
+---
+
+## 🖼️ **Sample Graphs**
+> Includes plots like:
+> - Carat vs Price (Scatter)
+> - Price Distribution (Histogram)
+> - Average Price by Cut (Bar with Error)
+> - 3D Scatter Plot
+> - Heatmap of Correlation
+
+---
+
+## 🧑‍💻 **Author**
+**Zain Ali**  
+📧 [zain4freelancer@gmail.com](mailto:zain4freelancer@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/zainali-cs)  
+
